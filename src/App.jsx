@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { supabase } from "./supabase-client"
 import Form from "./components/Form"
-import Taskmanager from './pages/taskmanager'
+import Taskmanager from './pages/Taskmanager'
 import { Routes, Route } from 'react-router-dom'
 import "../src/App.css"
 
